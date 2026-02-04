@@ -1,4 +1,4 @@
-"Kirjoita ohjelma, joka kysyy ympyrän säteen ja tulostaa sen pinta-alan."
+#Kirjoita ohjelma, joka kysyy ympyrän säteen ja tulostaa sen pinta-alan.
 
 import math
 sade = float(input('Mikä on ympyrän halkaisija?:'))

@@ -1,5 +1,5 @@
-"Kirjoita ohjelma, joka kysyy suorakulmion kannan ja korkeuden." \
-"Ohjelma tulostaa suorakulmion piirin ja pinta-alan."
+#Kirjoita ohjelma, joka kysyy suorakulmion kannan ja korkeuden.
+#Ohjelma tulostaa suorakulmion piirin ja pinta-alan.
 
 import math
 kanta = float(input('Mikä on suorakulmion kanta?:'))
