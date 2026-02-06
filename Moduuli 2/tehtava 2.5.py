@@ -9,3 +9,14 @@ leiviska = float(input('Leiviskää: '))
 naula = float(input('Naulaa: '))
 luoti = float(input('Luoti: '))
 
+leiviska1 = leiviska *20*32*13.3
+naula1 = naula *32*13.3
+luoti1 = luoti *13.3
+
+yhteensa = leiviska1 + naula1 + luoti1
+
+kg = yhteensa // 1000
+g = yhteensa % 1000
+
+print("Massa nykymittojen mukaan:")
+print(f"{kg} kilogrammaa sekä noin {g:.2f} grammaa.")
