@@ -13,7 +13,7 @@ while True:
         print("Nyt lopetan, koska annoit negatiivisen luvun")
         break
 
-    print(luku *2.54)
+    print(f"{luku *2.54}cm")
 
 
 
