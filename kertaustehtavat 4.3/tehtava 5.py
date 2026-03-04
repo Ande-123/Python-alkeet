@@ -10,10 +10,7 @@ print("Syötä haluamasi laskutoimituksen perässä oleva luku ja lopeta syött�
 while True:
 
     lasku = int(input("Yhteenlasku(1), vähennyslasku(2), kertolasku(3) ja jakolasku(4): "))
-    if lasku == 5:
-        print("Nyt lopetan!")
-        break
-    elif lasku == 1:
+    if lasku == 1:
         A = int(input("Ensimmäinen luku: "))
         B = int(input("Toinen luku: "))
         print(f"Lukujesi summa on {A+B}")
@@ -34,4 +31,5 @@ while True:
         print(f"Lukujesi osamäärä on {A/B}")
 
     else:
-        print("Sinä et osaa noudattaa ohjeita, uh noh.")
+        print("Nyt lopetan!")
+        break
