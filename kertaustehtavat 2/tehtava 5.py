@@ -1,6 +1,6 @@
 # Kirjoita funktio nimeltä suurin_arvo, joka saa kolme argumenttia.
 # Funktion tulee palauttaa näistä kolmesta suurin arvo.
-# Kysy luvut käyttäjältä input-funktion avulla.
+# Kysy luvut käyttäjältä input-funktion avulla
 
 
 

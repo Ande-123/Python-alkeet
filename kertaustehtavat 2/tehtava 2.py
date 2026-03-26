@@ -1,7 +1,7 @@
 # Kirjoita ohjelma, joka pyytää käyttäjää syöttämään arvoja ja lisää ne listaan.
 # Jokaisen lisäyksen jälkeen lista tulostetaan kahdella tavalla:
 # lisäysjärjestyksessä ja pienimmästä suurimpaan järjestettynä.
-# Ohjelma lopettaa, kun käyttäjä syöttää 0.
+# Ohjelma lopettaa, kun käyttäjä syöttää 0
 
 
 lista = []

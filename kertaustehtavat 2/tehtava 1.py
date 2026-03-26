@@ -1,4 +1,4 @@
-# Kirjoita ohjelma, joka tulostaa kertotaulun käyttäjän antamalle numerolle välillä 1-10.
+# Kirjoita ohjelma, joka tulostaa kertotaulun käyttäjän antamalle numerolle välillä 1-10
 
 luku = int(input("Anna luku 1-10 välillä: "))
 

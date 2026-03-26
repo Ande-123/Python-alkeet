@@ -1,6 +1,6 @@
 # Kirjoita funktio nimeltä kuusi, joka ottaa yhden argumentin.
 # Funktio tulostaa tekstin "Tämä on kuusi!" sekä kuusen,
-# jonka koko määräytyy annetun argumentin perusteella.
+# jonka koko määräytyy annetun argumentin perusteella
 
 
 def kuusi(koko):

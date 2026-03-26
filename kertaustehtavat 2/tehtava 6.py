@@ -1,5 +1,5 @@
 #  Päivitä laskin.py -tiedostosi (esimerkki löytyy OMA:sta, dokumentit-kansiosta) niin,
-# että laskutoimitukset suoritetaan niitä vastaavilla funktioilla. Määrittele funktio itse.
+# että laskutoimitukset suoritetaan niitä vastaavilla funktioilla. Määrittele funktio itse
 
 
 
